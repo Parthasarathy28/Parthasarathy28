@@ -1,7 +1,7 @@
 # Hi 👋, I'm Parthasarathi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+Pipeline+Architect;Automation+Enthusiast;Infrastructure+as+Code+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+DevOps+Specialist;CI%2FCD+Pipeline+Architect;Automation+Enthusiast;Infrastructure+as+Code+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-**Location:** Pondicherry, India 🇮🇳
+**Location:** Bengaluru, India 🇮🇳
 
 I'm a passionate **DevOps Engineer** who thrives on building scalable, automated, and resilient infrastructure. I transform complex deployment processes into streamlined CI/CD pipelines and make infrastructure management a breeze with Infrastructure as Code.
 
@@ -27,7 +27,6 @@ I'm a passionate **DevOps Engineer** who thrives on building scalable, automated
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🐳 Containers & Orchestration
@@ -50,17 +49,15 @@ I'm a passionate **DevOps Engineer** who thrives on building scalable, automated
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -109,13 +106,13 @@ devops_engineer:
   role: "Infrastructure Automation Specialist"
   
   core_competencies:
-    - Cloud Architecture & Migration (AWS, Azure, GCP)
+    - Cloud Architecture & Migration (AWS,GCP)
     - Container Orchestration (Kubernetes, Docker Swarm)
     - CI/CD Pipeline Design & Implementation
     - Infrastructure as Code (Terraform, CloudFormation, Pulumi)
     - Configuration Management (Ansible, Chef, Puppet)
     - Monitoring & Observability (Prometheus, Grafana, ELK)
-    - GitOps & Continuous Deployment (ArgoCD, FluxCD)
+    - GitOps & Continuous Deployment (ArgoCD,)
     - Security & Compliance Automation
     
   practices:
@@ -164,7 +161,7 @@ devops_engineer:
   <a href="mailto:parthasarathi.paandhaman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/parthasarathi28">
+  <a href="https://linkedin.com/in/partha280496">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/parthasarathi28">
